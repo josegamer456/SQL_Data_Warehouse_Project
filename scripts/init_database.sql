@@ -27,7 +27,7 @@ END;
 
 GO
 
---Create the 'DataWarehouse' database
+--Create the 'DataWarehouse' databases
 CREATE DATABASE DataWarehouse;
 GO
 
