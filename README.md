@@ -86,9 +86,6 @@ These results will guide stakeholders in making decisions on key business metric
 ---
 
 
-
-## Repository Structure
-
 ```plaintext
 data-warehouse-project/
 │
