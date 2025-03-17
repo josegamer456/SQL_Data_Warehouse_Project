@@ -3,7 +3,7 @@ Building a SQL project data warehouse using ETL processes, data modeling and ana
 
 Data Warehouse & Analytics Project
 
-Welcome to this Data Warehouse and Analytics Project! This project is intended to demonstrate how to create a full data warehousing and analytics solution from scratch. It adheres to industry best practices in data engineering and analytics, so it's an excellent addition to your portfolio.
+Welcome to this Data Warehouse and Analytics Project! This project is intended to demonstrate how to create a full data warehousing and analytics solution from scratch. It adheres to industry best practices in data engineering and analytics.
 
 ---
 
